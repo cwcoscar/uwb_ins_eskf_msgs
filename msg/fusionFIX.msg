@@ -11,3 +11,6 @@ float64 velocity_u
 float64 att_e
 float64 att_n
 float64 att_u
+
+float64[] R_covariance
+float64[] P_covariance
